@@ -1,0 +1,2 @@
+# adom
+web devloper
